@@ -1,7 +1,7 @@
 # Personal-Webpage-Streamlit
 Created a personal webpage using Python and the Streamlit library. This webpage will be able to serve as a place for us to share our thoughts, projects, and anything else we want.
 
-<!-- <img src="[https://drive.google.com/file/d/1HXwYqEYLNzrYrL9TFqU8C3fxc83uE5gW/view?usp=sharing](https://github.com/sivamsinghsh/Personal-Webpage-Streamlit/blob/main/preview.png)"> -->
+
 
 [![preview.png](https://i.postimg.cc/RC8VxjMR/preview.png)](https://postimg.cc/BtTGx7PL)
 ## Requirements
